@@ -1,0 +1,23 @@
+{
+  "name": "quiz---azure",
+  "version": "1.0.0",
+  "description": "A quiz application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evinsan/quiz-app.git"
+  },
+  "keywords": [
+    "quiz"
+  ],
+  "author": "STKV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evinsan/quiz-app/issues"
+  },
+  "homepage": "https://github.com/evinsan/quiz-app#readme"
+}
