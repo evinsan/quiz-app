@@ -59,4 +59,4 @@ jobs:
           app-name: 'stkvquiz'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED71B0A494AC4B649BCFB49B0BB07E46 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D75B844EB4704594AB330BC9C8F553E4 }}
